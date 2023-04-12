@@ -22,7 +22,7 @@ After filling in the required fields, click on the "Submit" button to submit the
 
 Built With
 HTML
-Authors
-Vaishnav 
+Authors:Vaishnav 
+
 License
 This project is licensed under the MIT License - see the LICENSE.md file for details
